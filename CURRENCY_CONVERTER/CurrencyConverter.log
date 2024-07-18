@@ -1,0 +1,4 @@
+Jul 13, 2024 11:55:02 AM org.example.CurrencyConverter.CurrencyConverter fetchExchangeRates
+SEVERE: Error fetching exchange rates: Server returned HTTP response code: 401 for URL: https://openexchangerates.org/api/latest.json?app_id=YOUR_API_KEY
+Jul 13, 2024 11:55:19 AM org.example.CurrencyConverter.CurrencyConverter convertCurrency
+WARNING: Invalid amount entered: 20$
